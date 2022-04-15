@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/* ASIDE */
+
+.nav{
+    width: 300px;
+    min-width: 290px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    border-right: 3px solid #62666666;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.nav-h1{
+    font-size: 28px;
+    font-weight: 300;
+    margin: 10px;
+    padding: 20px 0;
+}
+
+.nav li{
+    font-size: 16px;
+    font-weight: 300;
+    padding: 20px 30px;
+    border-bottom: 1px solid #333;
+    color: #4d4353;
+}
