@@ -33,3 +33,40 @@
     border-bottom: 1px solid #333;
     color: #4d4353;
 }
+
+/* SECTION 1 */
+
+.section1{
+    position: absolute;
+    margin-left: 20rem;
+    padding: 2rem 0;
+}
+
+.section1-h1{
+    font-size: 28px;
+    font-weight: 500;
+    padding: 1rem 0;
+}
+
+.section1-article p{
+    font-size: 15.36px;
+    font-weight: 300;
+    padding: 0.5rem 0;
+    display: block;
+    color: #4d4353;
+}
+
+.section1-article ul{
+    font-size: 15.36px;
+    font-weight: 300;
+    padding: 0.5rem 4rem;
+}
+
+.section1-article li{
+    font-size: 15px;
+    padding: 1rem 0;
+    color: #4d4353
+}
+
+
+
