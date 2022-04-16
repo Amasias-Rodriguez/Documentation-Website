@@ -38,7 +38,7 @@
 
 .section1{
     position: absolute;
-    margin-left: 20rem;
+    margin-left: 21rem;
     padding: 2rem 0;
 }
 
@@ -51,9 +51,33 @@
 .section1-article p{
     font-size: 15.36px;
     font-weight: 300;
+    line-height: 1.5;
     padding: 0.5rem 0;
     display: block;
     color: #4d4353;
+}
+
+.code{
+    width: 941px;
+    height: 70px;
+    font-family: monospace;
+    display: block;
+    text-align: left;
+    white-space: pre-line;
+    position: relative;
+    line-height: 2;
+    color: #4d4353;
+    background-color: #f7f7f7;
+    padding: 0 10px 6rem 10px;
+    margin-left: 1.2rem;
+    border-radius: 5px;
+}
+
+.code-2{
+    width: 941px;
+    height: 40px;
+    display: block;
+    padding-bottom: 5rem;
 }
 
 .section1-article ul{
